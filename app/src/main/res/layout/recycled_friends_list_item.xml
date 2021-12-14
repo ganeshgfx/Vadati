@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:gravity="center_vertical"
+    android:padding="17dp">
+    <Button
+        android:padding="10dp"
+        android:id="@+id/textView_RV"
+        app:icon="@drawable/ic_baseline_remove_circle_24"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Text button"
+        app:strokeWidth="1dp"
+        android:textAlignment="textStart"
+        app:strokeColor="@color/colorPrimary"
+        style="@style/Widget.MaterialComponents.Button.TextButton.Icon"
+    />
+
+</LinearLayout>

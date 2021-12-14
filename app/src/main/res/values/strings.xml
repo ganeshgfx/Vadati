@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScanChat(ALPHA)</string>
+    <string name="tab_text_1">Connect</string>
+    <string name="tab_text_2">Chat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string
+        name="insta">Contact me at 🔗 <a href="https://www.instagram.com/ganesh.gfx">IG/@GaneshGFX</a></string>
+</resources>
